@@ -6,9 +6,9 @@
  :fire: Proposta do projeto :nerd_face:
 </p>
 
- <h1 align="center"> 
+ <p align="center"> 
   <img alt="Tela de feedback sendo processada com envio" title="#tela de feedback" src="./img/feedback.gif" />
-</h1>
+</p>
 
 ## 🔨 Funcionalidades do projeto
 
